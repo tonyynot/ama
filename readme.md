@@ -3,7 +3,7 @@
 ## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?q=is%3Aissue+is%3Aclosed)
 
 - I'm a Developer, Designer, Founder, Mentor & Speaker. 
-- I Co-Founded a company called [Themify](http://themify.me)
+- I Co-Founded [Themify](http://themify.me)
 - I Co-Organize [NodeSchoolTO](http://nodeschool.io/toronto/) & [Open Web Conf](https://github.com/Open-Web-Conf/Toronto-2016)
 - I Co-Organized the first [jQueryTO](http://jqueryto.com)
 - I'm the creator of [DSS](https://github.com/DSSWG/DSS), [Front-end Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) & [more](https://github.com/darcyclarke?tab=repositories)
