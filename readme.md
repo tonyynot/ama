@@ -2,7 +2,14 @@
 
 ## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?q=is%3Aissue+is%3Aclosed)
 
-I get a lot of questions by email. This way anyone can read the answer!
+- I'm a Developer, Designer, Founder, Mentor & Speaker. 
+- I Co-Founded a company called [Themify](http://themify.me)
+- I Co-Organize [NodeSchoolTO](http://nodeschool.io/toronto/) & [Open Web Conf](https://github.com/Open-Web-Conf/Toronto-2016)
+- I Co-Organized the first [jQueryTO](http://jqueryto.com)
+- I'm the creator of [DSS](https://github.com/DSSWG/DSS), [Front-end Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) & [more](https://github.com/darcyclarke?tab=repositories)
+- I sit on the advisory boards for [FullStack TO](http://fsto.co), [Spotlightly](http://spotlightly.com/) & [Boqs](http://boqs.com/)
+
+I get a lot of questions by email and can't answer them all. This is a great way for anyone to ask or read questions and answers! 
 
 Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
 
