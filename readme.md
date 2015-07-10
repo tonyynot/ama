@@ -12,7 +12,7 @@
 
 I get a lot of questions by email and can't answer them all. This is a great way for anyone to ask or read questions and answers! 
 
-Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
+#### Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
 
 -
 
