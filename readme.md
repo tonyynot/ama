@@ -8,6 +8,7 @@
 - I Co-Organized the first [jQueryTO](http://jqueryto.com)
 - I'm the creator of [DSS](https://github.com/DSSWG/DSS), [Front-end Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) & [more](https://github.com/darcyclarke?tab=repositories)
 - I sit on the advisory boards for [FullStackTO](http://fsto.co), [Spotlightly](http://spotlightly.com/) & [Boqs](http://boqs.com/)
+- I make ridiculously good [apple crisp](https://instagram.com/p/fYEYAWgUjF/)
 
 I get a lot of questions by email and can't answer them all. This is a great way for anyone to ask or read questions and answers! 
 
