@@ -7,7 +7,7 @@
 - I Co-Organize [NodeSchoolTO](http://nodeschool.io/toronto/) & [Open Web Conf](https://github.com/Open-Web-Conf/Toronto-2016)
 - I Co-Organized the first [jQueryTO](http://jqueryto.com)
 - I'm the creator of [DSS](https://github.com/DSSWG/DSS), [Front-end Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) & [more](https://github.com/darcyclarke?tab=repositories)
-- I sit on the advisory boards for [FullStack TO](http://fsto.co), [Spotlightly](http://spotlightly.com/) & [Boqs](http://boqs.com/)
+- I sit on the advisory boards for [FullStackTO](http://fsto.co), [Spotlightly](http://spotlightly.com/) & [Boqs](http://boqs.com/)
 
 I get a lot of questions by email and can't answer them all. This is a great way for anyone to ask or read questions and answers! 
 
