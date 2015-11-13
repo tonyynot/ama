@@ -2,13 +2,13 @@
 
 ## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?q=is%3Aissue+is%3Aclosed)
 
-- I'm a Developer, Designer, Founder, Mentor & Speaker. 
-- I Co-Founded [Themify](http://themify.me)
-- I Co-Organize [NodeSchoolTO](http://nodeschool.io/toronto/) & [Open Web Conf](https://github.com/Open-Web-Conf/Toronto-2016)
-- I Co-Organized the first [jQueryTO](http://jqueryto.com)
-- I'm the creator of [DSS](https://github.com/DSSWG/DSS), [Front-end Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) & [more](https://github.com/darcyclarke?tab=repositories)
-- I sit on the advisory boards for [Spotlightly](http://spotlightly.com/) & [Boqs](http://boqs.com/)
-- I make ridiculously good [apple crisp](https://instagram.com/p/fYEYAWgUjF/)
+- I am a developer for a large non-profit organization in Philadelphia.
+- I [blog](http://anthonyramella.com) about my experiences learning web development.
+- Sometimes I [tweet](http://www.twitter.com/a_ramella) about tech, programming and other assorted randomness.
+- In my spare time, I've been working with the [Echonest API](http://developer.echonest.com/) to build a music site that integrates social media with a listening experience.
+- I'm a vinyl junkie and audiophile, you can view my record collection [here](http://www.discogs.com/user/alramella/collection) (if you're into that sort of thing).
+
+Please read my post on how I went [from zero to hired web developer in 5 months](http://anthonyramella.com/blog/from-zero-to-hired/) or any other posts on my [blog](http://anthonyramella.com) for some inspiration.
 
 I get a lot of questions by email and can't answer them all. This is a great way for anyone to ask or read questions and answers! 
 
