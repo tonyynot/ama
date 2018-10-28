@@ -3,10 +3,9 @@
 ## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?q=is%3Aissue+is%3Aclosed)
 
 - I am a developer for a large non-profit organization in Philadelphia.
-- I [blog](http://anthonyramella.com) about my experiences learning web development.
-- Sometimes I [tweet](http://www.twitter.com/a_ramella) about tech, programming and other assorted randomness.
+- I [blog](https://anthernet.com) about my experiences learning web development.
+- Sometimes I [tweet](http://www.twitter.com/tonecodes) about tech, programming and other assorted randomness.
 - In my spare time, I've been working with the [Echonest API](http://developer.echonest.com/) to build a music site that integrates social media with a listening experience.
-- I'm a vinyl junkie and audiophile, you can view my record collection [here](http://www.discogs.com/user/alramella/collection) (if you're into that sort of thing).
 
 Please read my post on how I went [from zero to hired web developer in 5 months](http://anthonyramella.com/blog/from-zero-to-hired/) or any other posts on my [blog](http://anthonyramella.com) for some inspiration.
 
